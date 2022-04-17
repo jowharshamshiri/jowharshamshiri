@@ -7,3 +7,5 @@ boolean operators(AND, OR, NOT).
 Also I forked a [dark theme](https://github.com/jowharshamshiri/doxygen-awesome-css) for doxygen, to make it work with v1.8.17.
 
 Also I am helping translate the Hugging Face course over at https://github.com/huggingface/course/issues/50
+
+Here's my [LinkedIn](http://linkedin.com/in/joharshamshiri).
