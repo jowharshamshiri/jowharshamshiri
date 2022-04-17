@@ -1,6 +1,6 @@
 # Bahram's Profile
 
-Check out my fork of [doxygen](https://github.com/jowharshamshiri/doxygen). The search box in the external search mode
+Check out my fork of [doxygen](https://github.com/jowharshamshiri/doxygen). The search box in external search mode
 now supports type: and name: prefixes. It also now supports mixing rules with
 boolean operators(AND, OR, NOT).
 
