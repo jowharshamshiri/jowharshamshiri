@@ -6,4 +6,6 @@ Also I forked a [dark theme](https://github.com/jowharshamshiri/doxygen-awesome-
 
 I am helping translate the Hugging Face course over at https://github.com/huggingface/course/issues/50
 
+Here's a little utility I use to manage tmux sessions: [forky](https://gist.github.com/jowharshamshiri/e55c3bbce700aa312c54f5204e7e8b36)
+
 Here's my [LinkedIn](http://linkedin.com/in/joharshamshiri).
