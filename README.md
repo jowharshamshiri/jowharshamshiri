@@ -1,4 +1,5 @@
 # Bahram's Profile
+I'm working on a vscode extension for Terragrunt HCL files.
 
 Check out my fork of [doxygen](https://github.com/jowharshamshiri/doxygen). I made a few small changes so that the search box in external search mode supports type: and name: prefixes. It also now supports mixing rules with boolean operators(AND, OR, NOT). You can now search for "searchkey AND NOT type:source".
 
