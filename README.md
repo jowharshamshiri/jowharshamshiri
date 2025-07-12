@@ -2,7 +2,9 @@
 
 I wrote a [parser](https://github.com/jowharshamshiri/tghclparser) for Terragrunt HCL in typescript.
 
-I created a [vscode extension](https://marketplace.visualstudio.com/items?itemName=BahramJoharshamshiri.hcl-lsp) that provides a language server for terragrunt using the above package.
+I created a [vscode extension](https://github.com/jowharshamshiri/tg-hcl-lsp) that provides a language server for terragrunt using the above package.
+
+I made [refac](https://github.com/jowharshamshiri/refac), a tool I use for refactoring large projects with precision, it applies refactoring to both paths and file contents. It's tested every which way and I use it extensively myself.
 
 Check out my fork of [doxygen](https://github.com/jowharshamshiri/doxygen). I made a few small changes so that the search box in external search mode supports type: and name: prefixes. It also now supports mixing rules with boolean operators(AND, OR, NOT). You can now search for "searchkey AND NOT type:source".
 
