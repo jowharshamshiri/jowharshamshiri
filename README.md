@@ -5,3 +5,4 @@
 * Made [Workspace](https://jowharshamshiri.github.io/ws/), an opinionated tool suite for file operations, version management, and development workflow automation. It’s battle-tested, used daily, and reflects years of refining my personal workflows.
 * Forked and extended [Doxygen](https://github.com/jowharshamshiri/doxygen) to support `type:` and `name:` search prefixes and boolean logic (`AND`, `OR`, `NOT`) in external search mode.
 * Built [BoxMux](https://github.com/jowharshamshiri/boxmux), a YAML-driven TUI multiplexer to run and monitor groups of terminal commands in parallel—ideal for devops, clusters, and testing.
+* Created [InSite](https://github.com/jowharshamshiri/insite), an MCP server for browser automation with 50 tools using Playwright.  
