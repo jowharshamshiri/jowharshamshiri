@@ -6,4 +6,5 @@
 * Forked and extended [Doxygen](https://github.com/jowharshamshiri/doxygen) to support `type:` and `name:` search prefixes and boolean logic (`AND`, `OR`, `NOT`) in external search mode.
 * Built [BoxMux](https://github.com/jowharshamshiri/boxmux), a YAML-driven TUI multiplexer to run and monitor groups of terminal commands in parallel—ideal for devops, clusters, and testing.
 * Created [InSite](https://jowharshamshiri.github.io/insite), an MCP server for browser automation with 50 tools using Playwright.
+* [InCode](https://github.com/jowharshamshiri/incode), an MCP server providing AI agents with complete LLDB debugging capabilities for native binary debugging and analysis.
 * Also check out [Janus](https://github.com/jowharshamshiri/Janus) - a cross-platform connection-less Unix socket communication library providing inter-process communication across Go, Rust, Swift, and TypeScript.
